@@ -9,6 +9,10 @@ This project is a web application that allows users to search for token-related 
 > 2. **Implement proxy rotation** to avoid IP bans and other issues.
 > 3. **Disclaimer:** I am not responsible for any loss you may incur using this product.
 
+
+![image](https://github.com/user-attachments/assets/2e1d91a3-9c98-478d-9184-89d987b21480)
+
+
 ## Features
 
 - Search for tokens using contract addresses
