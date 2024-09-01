@@ -41,7 +41,7 @@ The project is structured as a monorepo with both frontend and backend in a sing
    ```
 
 3. Set up environment variables:
-   - Copy `.env.sample` to `.env` in both frontend and backend directories
+   - Copy `sample.env` to `.env` in both frontend and backend directories
    - Fill in the required values in each `.env` file
 
 4. Start the backend server:
